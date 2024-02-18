@@ -1,0 +1,15 @@
+dist
+node_modules
+.next
+build
+.gitignore
+*.prisma
+*.ico
+*.sh
+*.lock
+*.log
+*.example
+.prettierignore
+.husky/*
+*.json
+prettier.config.js
